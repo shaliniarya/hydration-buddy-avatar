@@ -8,7 +8,7 @@ You don't run any setup commands yourself. Claude Code does all of it.
 
 ## Requirements
 
-- A Mac
+- A Mac or windows
 - [Claude Code](https://claude.com/claude-code)
 
 ## Install
